@@ -1,0 +1,3 @@
+Policy,Missed_Problems,False_Reviews,Missed_Problem_Cost,False_Review_Cost,Total_Cost_EUR
+Original Random Forest,2,1,200,10,210
+Combined Review Policy,0,9,0,90,90

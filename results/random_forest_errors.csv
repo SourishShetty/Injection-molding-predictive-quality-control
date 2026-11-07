@@ -1,0 +1,4 @@
+Validation_Row,label_viability,Predicted,Error_Type,Tinj,tinj,Pinj,Ph,Bp,th
+18,R,G,Infeasible process missed,180,1.0,15,5,30,4.0
+65,Y,G,Short-shot condition missed,200,0.5,15,5,15,4.0
+104,G,Y,Short-shot condition falsely flagged,200,2.0,35,5,30,6.0
